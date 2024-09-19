@@ -16,11 +16,56 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
+In the forest deep and wide,
+Where shadows dance and secrets hide,
+A creature lurks with fearsome grace,
+The Jabberwock, with toothy face. 
+
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
+
+In a yellow wood, the traveler stands,
+Two winding paths stretch out like hands.
+One is bright with footprints worn,
+The other wild, by nature adorned.
+
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
+
+Sure! Here’s a two-verse poem inspired by "The Walrus and the Carpenter":
+
+Upon the shore, with a gleam in their eyes,
+The Walrus and Carpenter hatched clever lies.
+“Come, little oysters, don’t be shy,
+Join us for feasting beneath the sky!”
+
+With laughter and charm, they lured them near,
+But shadows crept in as the end drew near.
+For kindness can mask a more cunning intent,
+In the tales of the sea where innocence went.
+
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+
+In the tapestry of life, threads intertwine,
+Colors and patterns, a story divine.
+Each voice a note in a symphony's song,
+Where struggles and triumphs in unity belong.
+
+She walks a path where the shadows meet,
+A dance of identities beneath her feet.
+Her skin tells a tale, her heart bears the weight,
+Of cultures and histories that shape her fate.
+
+A man stands beside her, his journey unique,
+With layers of strength in the silence he seeks.
+Together they rise, though the world may divide,
+Embracing the nuances they cannot hide.
+
+For justice is woven in the fabric we share,
+In every connection, a promise laid bare.
+Through love and through pain, our stories align,
+In the power of many, our spirits combine.
+
