@@ -27,7 +27,7 @@ The Jabberwock, with toothy face.
 In a yellow wood, the traveler stands,
 Two winding paths stretch out like hands.
 One is bright with footprints worn,
-The other wild, by nature adorned.
+The other wild, by nature adorned. 
 
 
 ## Third Verse
